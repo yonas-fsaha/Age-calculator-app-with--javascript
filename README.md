@@ -6,7 +6,6 @@
 
 Thanks for checking out this front-end coding challenge.
 
-coding skills by building realistic projects.
 
 **To do this challenge, you need a decent understanding of HTML, CSS and JavaScript.**
 
