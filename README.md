@@ -91,6 +91,6 @@ We provide templates to help you share your solution once you've submitted it on
 
 ## Got feedback for us?
 
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
+We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, 
 
 **Have fun building!** 🚀
