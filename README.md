@@ -69,7 +69,6 @@ You can host your site using one of these solutions or any of our other trusted 
 
 
 
-## Submitting your solution
 
 
 
